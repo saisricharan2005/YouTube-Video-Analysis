@@ -10,3 +10,12 @@ An end-to-end data analysis project to identify factors that contribute to a vid
 
 
 <img width="1421" height="795" alt="Screenshot 2025-10-19 111149" src="https://github.com/user-attachments/assets/556fc594-8fbd-4085-9b26-da2cd269737f" />
+
+
+## Data Source
+
+The raw dataset used for this analysis exceeds GitHub's file size limit and is not included in this repository. You can download the original data from Kaggle at the following link:
+
+[Trending YouTube Video Statistics on Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new)
+
+The cleaned dataset (`cleaned_USvideos.csv`) generated during the Python analysis is included in the repository.
